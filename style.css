@@ -150,6 +150,19 @@ section:nth-child(even) {
     
 }
 
+.about_us__info--container {
+    position: relative;
+    width: 450px;
+    height: 65vh;
+    margin: 0px auto;
+}
+
+.about_us__info--container span {
+    position: absolute;
+    bottom: 0;
+    
+}
+
 .about_us__info--title {
     color: #fff;
     text-shadow: 1px 1px #242424;
